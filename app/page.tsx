@@ -134,7 +134,7 @@ export default function LandingPage() {
               <Button
                 size="lg"
                 asChild
-                className="text-lg px-8 py-4 h-auto rounded-2xl bg-gradient-to-r from-primary to-blue-600 hover:from-primary/90 hover:to-blue-600/90 shadow-lg hover:shadow-xl transition-all duration-300 group"
+                className="text-lg px-8 py-3 h-auto rounded-2xl bg-gradient-to-r from-primary to-blue-600 hover:from-primary/90 hover:to-blue-600/90 shadow-lg hover:shadow-xl transition-all duration-300 group"
               >
                 <Link href="/signup">
                   Start Free Trial
@@ -146,7 +146,7 @@ export default function LandingPage() {
                 size="lg"
                 variant="outline"
                 asChild
-                className="text-lg px-8 py-4 h-auto rounded-2xl border-2"
+                className="text-lg px-8 py-3 h-auto rounded-2xl border-2"
               >
                 <Link href="/signin">Sign In</Link>
               </Button>
@@ -248,7 +248,7 @@ export default function LandingPage() {
                 <Button
                   size="lg"
                   asChild
-                  className="text-lg px-8 py-4 h-auto rounded-2xl bg-gradient-to-r from-primary to-blue-600 hover:from-primary/90 hover:to-blue-600/90 shadow-lg hover:shadow-xl transition-all duration-300 group"
+                  className="text-lg px-8 py-3 h-auto rounded-2xl bg-gradient-to-r from-primary to-blue-600 hover:from-primary/90 hover:to-blue-600/90 shadow-lg hover:shadow-xl transition-all duration-300 group"
                 >
                   <Link href="/signup">
                     Get Started Free
@@ -260,7 +260,7 @@ export default function LandingPage() {
                   size="lg"
                   variant="outline"
                   asChild
-                  className="text-lg px-8 py-4 h-auto rounded-2xl border-2"
+                  className="text-lg px-8 py-3 h-auto rounded-2xl border-2"
                 >
                   <Link href="/signin">Sign In</Link>
                 </Button>
@@ -289,7 +289,7 @@ export default function LandingPage() {
             </div>
             
             <div className="text-sm text-muted-foreground">
-              © 2024 AnalyticsPro. All rights reserved.
+              © 2025 AnalyticsPro. All rights reserved.
             </div>
           </div>
         </div>
